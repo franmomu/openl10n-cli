@@ -2,7 +2,7 @@
 
 ## Install
 
-Download the last PHAR file from the [releases panel](https://github.com/openl10n/openl10n-cli/releases)
+Test Download the last PHAR file from the [releases panel](https://github.com/openl10n/openl10n-cli/releases)
 and add it to your `$PATH`:
 
 ```shell
